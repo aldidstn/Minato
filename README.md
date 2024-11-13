@@ -6,7 +6,7 @@
    Jalankan perintah berikut untuk mengunduh dan memberikan izin eksekusi pada script:
 
    ```bash
-   wget https://raw.githubusercontent.com/choir94/Minato/refs/heads/main/soneium.sh && chmod +x soneium.sh && ./soneium.sh
+   wget https://raw.githubusercontent.com/aldidstn/Minato/refs/heads/main/soneium.sh && chmod +x soneium.sh && ./soneium.sh
    ```
    Masukkan Ip VPS, RPC, ambil disini https://ethereum-sepolia-rpc.publicnode.com/
 
