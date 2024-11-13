@@ -51,7 +51,7 @@ fi
 
 # Clone the Soneium repository and navigate to the minato directory
 echo -e "\033[1;34mCloning Soneium repository...\033[0m"
-git clone https://github.com/Soneium/soneium-node.git
+git clone https://github.com/aldidstn/soneium-node
 cd soneium-node/minato || exit
 
 # Generate JWT secret
